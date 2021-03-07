@@ -1,0 +1,18 @@
+---
+title: "New post"
+author: "AMi"
+date: '2021-03-07'
+slug: new-post
+categories: []
+tags: []
+---
+```{r}
+
+plot(iris3)
+```
+$\mathbb{R} + \frac{10}{5}$
+
+
+
+
+
